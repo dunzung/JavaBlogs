@@ -3,6 +3,7 @@
 # 语言专栏
 - Java 基础专栏
   - [一文读懂 Volatile 三板斧，面试高薪就不远了 2020-04-05](https://mp.weixin.qq.com/s/2LXkzJHG0-Oiu6WnpT4aRw)
+  - [从 static 关键字深入理解 java对象初始化顺序](https://mp.weixin.qq.com/s/z9VS7bbFy-vMohLFSuE1Tw)
 - Golang 基础专栏
   - [Go 程序利用 ElasticSearch 游标 Scroll 实现海量数据分页查询 2020-04-01](https://mp.weixin.qq.com/s/zCOkxlkjWoyqiuhPoRH5xw)
   
